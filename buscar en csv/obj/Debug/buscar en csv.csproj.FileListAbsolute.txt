@@ -1,0 +1,8 @@
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\bin\Debug\buscar en csv.exe.config
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\bin\Debug\buscar en csv.exe
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\bin\Debug\buscar en csv.pdb
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\obj\Debug\buscar en csv.csproj.AssemblyReference.cache
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\obj\Debug\buscar en csv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\obj\Debug\buscar en csv.csproj.CoreCompileInputs.cache
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\obj\Debug\buscar en csv.exe
+C:\Users\Mnerl\Documents\programacion\2- primer año\2do cuatrimestre\c#\buscar en csv\buscar en csv\obj\Debug\buscar en csv.pdb
